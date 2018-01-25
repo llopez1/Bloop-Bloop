@@ -1,0 +1,12 @@
+body {
+    background: blue; 
+}
+
+.center {
+    text-align: center;
+}
+
+.hide {
+    display: none; 
+}
+
