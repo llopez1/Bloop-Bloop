@@ -1,5 +1,5 @@
 
-var response = prompt("Do you need to find a restroom?");
+var response = prompt("Do you need to find a restroom?" "[Y]es"), ;
 
 function clickedButton() {
     document.getElementById("restroomlist").classList.remove("hide")  
